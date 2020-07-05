@@ -37,6 +37,10 @@ html{
 	font-weight: bold;
 	border-bottom: 5px solid #226CE0;
 }
+.navbar-inverse .navbar-nav>.active>a{
+    border-bottom-color: #226CE0;
+    background-color: #2f2f2f;
+}
 
 /*Carousel*/
 
